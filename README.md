@@ -60,4 +60,4 @@ Ce projet propose une page Web en PHP/MySQL permettant de signaler un problème 
 
 ## Licence
 
-Ce projet est publié sous [votre licence choisie]. Consultez le fichier `LICENSE` pour plus d’informations.
+Ce projet est publié sous licence Creative Commons.
